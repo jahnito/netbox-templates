@@ -1,0 +1,5 @@
+name,device,label,enabled,type,description
+ether1,{},,True,100base-tx,
+ether2,{},,True,100base-tx,
+gre-tunnel1,{},,True,virtual,
+lte1,{},,True,lte,
